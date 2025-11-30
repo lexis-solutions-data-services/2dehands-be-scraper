@@ -1,6 +1,23 @@
+<p align="center">
+  <img src="https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/DevbkY3adMTBuoECt-actor-L3hdWgX7SgJ35plXU-z4Opxq7nyE-unnamed-5.png" alt="2dehands.be Scraper" width="200" />
+</p>
+
 ![banner](https://i.ibb.co/k27s42VP/Captura-desde-2025-07-30-21-35-35.png)
 
 ## 🎯 What does 2dehands Scraper do
+
+## 📊 Actor Stats
+
+| Stat | Value |
+|------|-------|
+| **Version** | `0.0.3` |
+| **Total Runs** | 170 |
+| **Last Run** | Nov 28, 2025 |
+| **Last Updated** | Oct 3, 2025 |
+
+---
+
+
 
 2dehands Scraper helps you extract product listings and marketplace data from **2dehands.be**, Belgium's leading online marketplace for buying and selling second-hand items.
 
